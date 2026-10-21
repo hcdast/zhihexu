@@ -1,0 +1,8 @@
+{
+  "name": "zhihexu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "知禾序品牌首页与产品导航",
+  "scripts": { "start": "node server.cjs", "check": "node --check server.cjs && node --check script.js" },
+  "engines": { "node": ">=18" }
+}
